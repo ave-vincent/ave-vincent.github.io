@@ -1,0 +1,1 @@
+import"./4ob2vLit.js";var t=globalThis.setInterval;export{t};
