@@ -1,0 +1,1 @@
+import{Hs as e,tn as i}from"./DPyTvsHI.js";var n=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{n as t};
