@@ -1,0 +1,1 @@
+import{o}from"./Cs-u81ap.js";function r(r){!1!==r&&o.error(String(r))}export{r as t};
