@@ -1,0 +1,1 @@
+import{ti as r}from"./CYHJwUxb.js";function t(t){!1!==t&&r.error(String(t))}export{t};
