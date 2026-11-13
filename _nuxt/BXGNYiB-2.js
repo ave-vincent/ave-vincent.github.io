@@ -1,0 +1,1 @@
+import{F as i}from"./DjF3qL9l.js";import{zi as e}from"./DLbTwIJ9.js";var o=i("favToken",()=>{const i=e({prefix:"favToken",defaultFixedWidth:300});return{...i,visible:i.visible,favTokenBoundingRect:i.boundingRect}});export{o as t};
